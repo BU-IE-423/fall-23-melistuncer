@@ -7,3 +7,10 @@ This is my [Progress Journal website](https://github.com/BU-IE-423/fall-23-melis
 * [Description of Project Part 1](files_part_1/IE423_Fall23_ProjectPart1.pdf)
 * [Project Part 1 Source Codes and Report](files_part_1/Part1.html)
 * [Project Part 1 ipynb file](files_part_1/Part1.ipynb)
+
+## Project Part 2
+
+* [Project Part 2 Task 1 Source Codes and Report](files_part_2/IE423_Part2_task1.html)
+* [Project Part 2 ipynb file](files_part_2/IE423_Part2_task1.ipynb)
+* [Project Part 2 Task 2 Our Efforts 1](files_part_2/FARKLARLA_ARIMA.ipynb)
+* [Project Part 2 Task 2 Our Efforts 2](files_part_2/LOGFARKLARLARIMA.ipynb)
