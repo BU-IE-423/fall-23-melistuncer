@@ -15,3 +15,8 @@ This is my [Progress Journal website](https://github.com/BU-IE-423/fall-23-melis
 * [Project Part 2 Trading Simulation for GARAN and AKBNK with Linear Regression](files_part_2/trading_garan_akbnk_regression.xlsx)
 * [Project Part 2 Trading Simulation for KCHOL and YKBNK with Linear Regression](files_part_2/trading_kchol_ykbnk_regression.xlsx)
 * [Project Part 2 Trading Simulation for GARAN and AKBNK with Time Series Model](files_part_2/trading_garan_akbnk_arima.xlsx)
+
+## Project Part 3
+
+* [Project Part 3 Report](files_part_3/IE423_Part_3_Group_11_Report.pdf)
+* [Project Part 3 Source Codes](files_part_3/IE423_part3_source_code.ipynb)
